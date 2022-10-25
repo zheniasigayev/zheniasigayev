@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🛠  Languages and Tools :
+Java  React  Spring  Material UI  Flutter  Redux   CSS  HTML  JavaScript  Firebase  Gatsby  MySQL  NodeJS  AWS  Postman  Git 
