@@ -1,7 +1,7 @@
 👋 Hi, I’m Zhenia <br>
 👀 I’m interested in Frontend, Fullstack, and Data Engineering in the fintech space. <br>
 📚 I’m currently in my 3rd year of Software Engineering @ McMaster University.<br>
-💼 Previously interned as a SWE at RBC where I lead an automation project.<br>
+💼 Previously worked as a SDE intern @ RBC where I lead an automation project.<br>
 
 ---
 
