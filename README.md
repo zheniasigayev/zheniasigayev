@@ -1,8 +1,7 @@
 👋 Hi, I’m Zhenia <br>
 👀 I’m interested in Frontend, Fullstack, and Data Engineering in the fintech space. <br>
 📚 I’m currently in my 3rd year of Software Engineering @ McMaster University.<br>
-🤔 Two side projects I'm in the process of building are a Linux Debugger and a Breast Cancer Classification AI.<br>
-💞️ I'm passionate about mentorship and learning from real life experience in building meaningful projects!<br>
+💼 Previously interned as a SWE at RBC where I lead an automation project.<br>
 
 ---
 
