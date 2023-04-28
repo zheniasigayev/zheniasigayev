@@ -1,7 +1,7 @@
 👋 Hi, I’m Zhenia <br>
 👀 I’m interested in general Software Engineering, Frontend, and Fullstack roles. <br>
 📚 I’m currently in my 3rd year of Software Engineering @ McMaster University.<br>
-💼 Previously worked as a _ @ _.<br>
+💼 Previously worked as a SDE @ RBC.<br>
 
 ---
 
